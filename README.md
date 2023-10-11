@@ -22,14 +22,6 @@
 
 ![amd64][amd64-shield]
 
-### [DeepStack](./deepstack)
-
-![amd64][amd64-shield] ![armv7][armv7-shield] ![aarch64][aarch64-shield]
-
-### [DeepStack CPU](./deepstack-cpu)
-
-![amd64][amd64-shield] ![armv7][armv7-shield] ![aarch64][aarch64-shield]
-
 ### [Facebox](./facebox)
 
 ![amd64][amd64-shield]
